@@ -1,1 +1,1 @@
-In this repo, I added my data science profile which contains a plot (MyProfile.pdf) and the R code (DataScienceProfile.R) used to generate the plot. I also cloned Monnie McGee's stat6306datascience repo.
+In this repo, I added my data science profile which contains a plot (MyProfile.pdf) and the R code (DataScienceProfile.R) used to generate the plot. I also cloned Monnie McGee's stat6306datascience repo and added two files, EDA-NYTdata.md and stat6303README.md.
